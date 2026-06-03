@@ -6,7 +6,7 @@ Minha primeira alteração de versão. Meu primeiro commit.
 Essa é a minha primeira modificação de arquivo.
 
 # TÍTULO
-Estou conseguindi fazr os commits perfeitamente.
+Estou conseguindo fazer os commits perfeitamente.
 
 # Subtítulo 
 Agora estou modificando o meu arquivo pela nuvem.
